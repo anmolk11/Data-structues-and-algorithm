@@ -29,6 +29,11 @@ class Queue{
         }
         cout<<"\n-----------------\n";
     }
+
+    ~Queue(){
+        // to avoid memeory leaks
+        delete[] A;
+    }
 };
 
 void Queue::enqueue(int x){
