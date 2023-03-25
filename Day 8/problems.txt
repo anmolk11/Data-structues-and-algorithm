@@ -1,0 +1,19 @@
+1. Factorial(x) => x!
+
+2. Sum(1..N) => sum from 1 to N
+
+3. Fabo(N) => Nth fabo term (0,1,1,2,3,5,8,.....Nth term)
+
+4. Print_decresing(x) => Print from x to 1
+
+5. Print_increasing(x) => Print from 1 to x
+
+6. Display_array(A,i,N) => Print elements of an array from i to N - 1
+
+7. Display_array_reverse(A,i,N) => Print elements of an array from N - 1 to i
+
+8. Max element of an array => max_array(A,i,N) => returns the max element from i to N - 1
+
+9. Min element of an array => min_array(A,i,N) => returns the min element from i to N - 1
+
+10. Reverse linked list
