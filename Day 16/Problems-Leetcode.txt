@@ -1,0 +1,6 @@
+https://leetcode.com/problems/subarray-product-less-than-k/
+https://leetcode.com/problems/minimum-size-subarray-sum/description/
+https://leetcode.com/problems/fruit-into-baskets/
+https://leetcode.com/problems/get-equal-substrings-within-budget/
+https://leetcode.com/problems/count-subarrays-with-score-less-than-k/
+https://leetcode.com/problems/subarrays-with-k-different-integers/

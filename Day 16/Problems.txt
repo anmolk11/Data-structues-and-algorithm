@@ -1,0 +1,68 @@
+Two pointers
+
+A. You are given two arrays, sorted in non-decreasing order. Merge them into one sorted array.
+
+input:
+6 7
+1 6 9 13 18 18
+2 3 8 13 15 21 25
+
+output:
+1 2 3 6 8 9 13 13 15 18 18 21 25 
+_____________________________________________________________________________________________________________________________
+
+B. You are given two arrays, sorted in non-decreasing order. For each element of the second array, find the number of elements in the first array strictly less than it.
+
+input:
+6 7
+1 6 9 13 18 18
+2 3 8 13 15 21 25
+
+output:
+1 1 2 3 4 6 6  
+_____________________________________________________________________________________________________________________________
+
+Sliding Window
+
+A. Given an array of n integers ai. Let's say that the segment of this array a[l..r] (1≤l≤r≤n) is good if the sum of elements on this segment is at most s. Your task is to find the longest good segment.
+
+
+input:
+7 20
+2 6 4 3 6 8 9
+
+output:
+4
+_____________________________________________________________________________________________________________________________
+
+B. Given an array of n integers ai. Let's say that the segment of this array a[l..r] (1≤l≤r≤n) is good if the sum of elements on this segment is at least s. Your task is to find the shortest good segment.
+
+input:
+7 20
+2 6 4 3 6 8 9
+
+output:
+3
+_____________________________________________________________________________________________________________________________
+
+C. Given an array of n integers ai. Let's say that the segment of this array a[l..r] (1≤l≤r≤n) is good if the sum of elements on this segment is at most s. Your task is to find the number of good segments.
+
+
+input:
+7 20
+2 6 4 3 6 8 9
+
+output:
+19
+_____________________________________________________________________________________________________________________________
+
+D. Given an array of n integers ai. Let's say that the segment of this array a[l..r] (1≤l≤r≤n) is good if the sum of elements on this segment is at least s. Your task is to find the number of good segments.
+
+input:
+7 20
+2 6 4 3 6 8 9
+
+output:
+9
+
+
